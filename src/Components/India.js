@@ -46,7 +46,7 @@ function India(props) {
           }}
           className="col-md-12"
         >
-          <img src="https://www.countryflags.io/in/shiny/64.png" />
+          <img src="https://disease.sh/assets/img/flags/in.png" />
         </div>
         <div className="col-md-12">
           <h3 style={{ textAlign: "center", margin: 0 }}>INDIA</h3>
